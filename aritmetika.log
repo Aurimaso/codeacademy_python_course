@@ -1,0 +1,9 @@
+DEBUG:root:Dalyba: 10 / 5 = 2.0
+DEBUG:root:Dalyba: 10 / 5 = 2.0
+ERROR:root:Dalyba negalima
+DEBUG:root:Dalyba: 10 / 0 = None
+INFO:root:padalinom
+DEBUG:root:Dalyba: 10 / 100 = 0.1
+2022-06-08 19:44:51,643:DEBUG:Dalyba: 10 / 5 = 2.0
+2022-06-08 19:45:50,282:DEBUG:Dalyba: 10 / 5 = 2.0
+2022-06-08 19:51:58,149:DEBUG:root:Dalyba: 10 / 5 = 2.0
