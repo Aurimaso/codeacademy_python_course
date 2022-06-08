@@ -7,3 +7,21 @@ DEBUG:root:Dalyba: 10 / 100 = 0.1
 2022-06-08 19:44:51,643:DEBUG:Dalyba: 10 / 5 = 2.0
 2022-06-08 19:45:50,282:DEBUG:Dalyba: 10 / 5 = 2.0
 2022-06-08 19:51:58,149:DEBUG:root:Dalyba: 10 / 5 = 2.0
+DEBUG:root:suma: <function sum at 0x000002C3FD09A710>
+DEBUG:root:suma: <function sum at 0x000002C3FD09A710>
+DEBUG:root:suma: <function sum at 0x000002C3FD09A710>
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 13
+DEBUG:root:suma: 13
+INFO:root:suma: 13
+INFO:root:suma: 13
+INFO:root:suma: 13
+INFO:root:square: 3.0
+2022-06-08 21:47:45,440:INFO:suma: 13
+2022-06-08 21:47:45,440:INFO:square: 3.0
+2022-06-08 21:50:21,071:INFO:suma: 13
+2022-06-08 21:50:21,072:INFO:square: 3.0
+2022-06-08 21:50:21,073:INFO:len of sentence: 7
+2022-06-08 21:50:21,073:INFO:devide: 5.0
